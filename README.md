@@ -23,7 +23,7 @@ The project aims to improve database visibility, documentation, governance, and 
 
 ## ✨ Key Features
 
-### 1. Database Asset Registry
+### 1. Database Asset Registry.
 
 Maintain a structured inventory of database assets, including:
 
