@@ -1,6 +1,5 @@
 # DataAnalyticsHub
 Data Inventory AI Automation Project
-# Data Inventory Hub
 
 **A Centralized Inventory Management System for Database Assets**
 
